@@ -1,5 +1,8 @@
 # PYTHON BASIC
 
+- .ipynb ▶️
+- .py ▶️ atau terminal run `$ pyhton <namaFile>.py`
+
 
 ## Variable 
 sebagai penampung value (nilai) dan dimulai dengan huruf contoh `nama_panggilan`, `namaPanggilan`, `NamaPanggilan`. `namaPanggilan1`.
@@ -8,7 +11,7 @@ sebagai penampung value (nilai) dan dimulai dengan huruf contoh `nama_panggilan`
 - Integer
 - Float
 - String
-- Boolean
+- Boolean => True / False 
 - List 
 - Dictionary 
 - Tuple
